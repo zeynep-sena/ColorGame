@@ -1,0 +1,57 @@
+.difficulty {
+    align-items: center;
+    text-align: center;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.gridsButton {
+    width: 50px;
+    height: 50px;
+    border: none;
+    margin: 10px;
+}
+
+.difficultyButton {
+    border: none;
+    background-color: gray;
+    padding: 5px 10px 5px 10px;
+    color: white;
+    cursor: pointer;
+    width: 50px;
+    height: 30px;
+}
+
+.score {
+    align-items: center;
+    text-align: center;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.playAgain{
+    align-items: center;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    border: none;
+    background-color: gray;
+    padding: 5px 10px 5px 10px;
+    color: white;
+    cursor: pointer;
+}
+
+#timer {
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 50%;
+    transform: translate( -50%);
+    position: absolute;
+}
